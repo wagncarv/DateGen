@@ -7,8 +7,8 @@ Gera datas aleatórias.
 
 ## Uso
  date_range(end_year, begin_year)
- > end_year = ano final
- > begin_year = ano inicial
+ *end_year = ano final*
+ *begin_year = ano inicial*
  
 ```Elixir
    iex> DateGen.date_range(2050, 1970)
