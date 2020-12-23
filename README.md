@@ -1,5 +1,7 @@
 # DateGen
 
+![alt-text](date.jpeg)
+
 Gera datas aleatórias.
 
 ## Installation
