@@ -2,9 +2,10 @@
 
 ![alt-text](date.jpeg)
 
+## Descrição
 Gera datas aleatórias.
 
-## Installation
+## Instalação
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `date_gen` to your list of dependencies in `mix.exs`:
