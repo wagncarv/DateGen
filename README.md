@@ -6,7 +6,7 @@
 Gera datas aleatórias.
 
 ## Uso
- date_range(end_year, begin_year)
+ > date_range(end_year, begin_year)
  
 ```
  end_year = ano final
