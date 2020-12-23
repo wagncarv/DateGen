@@ -5,6 +5,15 @@
 ## Descrição
 Gera datas aleatórias.
 
+## Uso
+```Elixir
+   iex> DateGen.date_range(2050, 1970)
+   [  
+    "2009-7-28", "2017-2-4", "2015-9-28", "2030-9-12", "2045-8-12", 
+    "1980-4-22", "2028-9-19", "2037-11-18", "2046-12-30", "2021-8-15"
+  ]
+```
+
 ## Instalação
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
